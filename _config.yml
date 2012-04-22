@@ -6,3 +6,5 @@ exclude:
   - Rakefile
   - pids
   - stop.sh
+
+production_url: http://sp4ke.com
