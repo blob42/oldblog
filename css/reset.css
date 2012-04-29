@@ -112,6 +112,8 @@ a:hover, a:active { outline: none; }
 
 a, a:active, a:visited { color: #4981A9; }
 
+#footer a, a:active a:visited { color: black;}
+
 
 ul, ol { margin-left: 1.8em; }
 ol { list-style-type: decimal; }
