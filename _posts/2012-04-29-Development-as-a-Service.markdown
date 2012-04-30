@@ -4,7 +4,7 @@ title: "Development as a Service on its baby steps"
 date: Sun Apr 29 20:26:09 +0200 2012
 ---
 
-Let me start by presenting a new web service [pythonanywhere.com](http://www.pythonanywhere.com/).
+Let me start by presenting a new web service [ythonanywhere.com](http://www.pythonanywhere.com/).
 
 It's a full python development stack, ready to be used in your browser. After a quick subscription for a free account,
 you have access from your dashboard to [python, ipython,  bash] consoles in different python flavours. 
@@ -26,7 +26,7 @@ Then pick the development stack of your preferred language/framework: Python(Dja
 
 Here, you have to maintain every piece involved in the process, packages versions, build tools, deployment, scaling. That's a lot of time and resources needed to finally get your developers pushing and your apps running.
 
-The next big step was the [Heroku](www.heroku.com) and [ Dotcloud ]( www.dotcloud.com ) like services, aka Deployment/Scaling as a Service. 
+The next big step was the [Heroku](http://www.heroku.com) and [ Dotcloud ]( http://www.dotcloud.com ) like services, aka Deployment/Scaling as a Service. 
 They release from the burden of deploying and give enough abstraction to exclusively focus your effort on the application logic. 
 The process is often the same, basically setup your project with a simple conf file, then deploy to the server with one command. 
 They practically all handle version control systems like git,
@@ -38,7 +38,7 @@ We have been adding more and more abstraction to the development process in orde
 However, there is still one constant, "localhost development". The coding itself is done on your machine/laptop.You still can use your favourite OS, IDE, tools. 
 
 Well, DaaS is going to cross that last barrier. 
-There are already several web services for online development like [jsfiddle.net](jsfiddle.net) for web design or [koding.com](koding.com).
+There are already several web services for online development like [jsfiddle.net](http://jsfiddle.net) for web design or [koding.com](http://koding.com).
 They offer something that could change the way we see development, the abstraction of your OS, ide and development environment. 
 If you think about it, that's a lot of time saved. No multi-platform mess, no more scripts to ensure the same development stack. Using the enormous processing power
 of cloud platforms, there is virtually no compile time. You can even forget about your machine, all you need is a keyboard and a screen.
