@@ -31,7 +31,7 @@ They release from the burden of deploying and give enough abstraction to exclusi
 The process is often the same, basically setup your project with a simple conf file, then deploy to the server with one command. 
 They practically all handle version control systems like git,
 so your project is deployed every time you push your code. 
-I believe Github helped a lot making these services exist as deployment is often tightly bound to code revisions, it offers an excellent API and a huge community.
+I believe Github helped a lot making these services exist as deployment is often tightly bound to code revisions, and Github offers an excellent API and a huge community.
 
 
 We have been adding more and more abstraction to the development process in order to make it easier, faster, stronger ... 
