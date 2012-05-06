@@ -4,7 +4,7 @@ title: "Development as a Service on its baby steps"
 date: Sun Apr 29 20:26:09 +0200 2012
 ---
 
-Let me start by presenting a new web service [ythonanywhere.com](http://www.pythonanywhere.com/).
+Let me start by presenting a new web service [pythonanywhere.com](http://www.pythonanywhere.com/).
 
 It's a full python development stack, ready to be used in your browser. After a quick subscription for a free account,
 you have access from your dashboard to [python, ipython,  bash] consoles in different python flavours. 
